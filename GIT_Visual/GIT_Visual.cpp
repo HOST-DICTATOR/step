@@ -1,37 +1,22 @@
-﻿#include <cassert>
-#include <iostream>
-#include <cstdio>
-#include <iomanip>
-#include <string>
-#include <map>
-#include <sstream>
-#include <numeric>
-#include <vector>
-
+﻿#include <iostream>
 using namespace std;
+#include "Name.h"
 
-char* append(char* pStr, const char* pAddStr)
+int main(int argc, char* argv[])
 {
-    // Проверить, что указатели ненулевые
-    assert(pStr != 0);
-    assert(pAddStr != 0);
-    // Код добавления pAddStr к pStr...
+	Name myName("Ivor", "Horton");                 // Try a single object
 
+	// Retrieve and store the name in a local char array  
+	char theName[10];
+	cout << "\nThe name is " << myName.getName(theName);
+
+	// Store the name in an array in the free store
+	char* pName = new char[myName.getNameLength()];
+	cout << "\nThe name is " << myName.getName(pName);
+
+	cout << endl;
+	return 0;
 }
-
-int main()
-{
-    setlocale(LC_ALL, "ru");
-
-    
-
-
-   
-
-
-    return 0;
-}
-
 
 
 
