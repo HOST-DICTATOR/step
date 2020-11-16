@@ -1,5 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
+
+
 #include "Name.h"
 
 int main(int argc, char* argv[])
@@ -15,6 +17,10 @@ int main(int argc, char* argv[])
 	cout << "\nThe name is " << myName.getName(pName);
 
 	cout << endl;
+        cout << endl;
+        cout << endl;
+
+//Пошли вы на хуй!!
 	return 0;
 }
 
