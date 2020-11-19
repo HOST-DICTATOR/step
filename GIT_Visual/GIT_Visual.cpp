@@ -25,6 +25,7 @@ int main(int argc, char* argv[])
 //Чумари!
 //Orlando
 //Floor
+//So
 	return 0;
 }
 
