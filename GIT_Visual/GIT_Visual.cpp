@@ -21,7 +21,6 @@ int main(int argc, char* argv[])
         cout << endl;
 
 //Пошли вы на хуй!!
-//Ушлепаны!!
 	return 0;
 }
 
