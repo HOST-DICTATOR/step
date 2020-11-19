@@ -20,7 +20,7 @@ int main(int argc, char* argv[])
         cout << endl;
         cout << endl;
 
-//Пошли вы на хуй!!
+
 	return 0;
 }
 
