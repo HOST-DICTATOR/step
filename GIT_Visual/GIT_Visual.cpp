@@ -20,16 +20,7 @@ int main(int argc, char* argv[])
         cout << endl;
         cout << endl;
 
-<<<<<<< HEAD
 
-=======
-//Пошли вы на хуй!!
-//Ушлепаны!!
-//Чумари!
-//Orlando
-//Floor
-//So
->>>>>>> v1.1
 	return 0;
 }
 
