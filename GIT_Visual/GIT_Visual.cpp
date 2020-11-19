@@ -22,7 +22,6 @@ int main(int argc, char* argv[])
 
 //Пошли вы на хуй!!
 //Ушлепаны!!
-//Чумари!
 	return 0;
 }
 
