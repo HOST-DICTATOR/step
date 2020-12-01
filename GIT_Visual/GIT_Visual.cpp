@@ -3,6 +3,8 @@ using namespace std;
 
 #include "Name.h"
 
+
+//solo
 int main(int argc, char* argv[])
 {
 	Name myName("Ivor", "Horton");                 // Try a single object
