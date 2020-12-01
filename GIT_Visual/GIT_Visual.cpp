@@ -2,6 +2,8 @@
 using namespace std;
 //mudacky
 //sloyki!
+
+// solo
 #include "Name.h"
 
 int main(int argc, char* argv[])
