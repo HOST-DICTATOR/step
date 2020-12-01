@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 //mudacky
-
+//sloyki!
 #include "Name.h"
 
 int main(int argc, char* argv[])
