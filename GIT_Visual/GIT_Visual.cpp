@@ -4,6 +4,7 @@ using namespace std;
 //sloyki!
 
 // solo
+// su
 #include "Name.h"
 
 int main(int argc, char* argv[])
