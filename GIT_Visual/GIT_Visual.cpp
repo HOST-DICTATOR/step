@@ -1,10 +1,6 @@
 ﻿#include <iostream>
 using namespace std;
-//mudacky
-//sloyki!
 
-// solo
-// su
 #include "Name.h"
 
 int main(int argc, char* argv[])
